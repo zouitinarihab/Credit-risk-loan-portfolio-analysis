@@ -37,6 +37,6 @@ This project addresses the following questions:
 - Python (Pandas, NumPy, Scikit-learn)
 - Power BI (DAX, Power Query)
 
-6. Data Source: https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction?select=lending_club_loan_two.csv
+6. Dataset Source: https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction?select=lending_club_loan_two.csv
 
 7. Dashboard Preview:<img width="1278" height="717" alt="image" src="https://github.com/user-attachments/assets/c8ff8d29-aed3-4de2-b6e0-5fe78cd6308a" />
