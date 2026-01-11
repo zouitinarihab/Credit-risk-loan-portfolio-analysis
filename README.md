@@ -36,8 +36,6 @@ This project addresses the following questions:
 
 - Python (Pandas, NumPy, Scikit-learn)
 - Power BI (DAX, Power Query)
-- SQL (for data reasoning)
-- Git & GitHub
 
 6. Data Source: https://www.kaggle.com/code/faressayah/lending-club-loan-defaulters-prediction?select=lending_club_loan_two.csv
 
